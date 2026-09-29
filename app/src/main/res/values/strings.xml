@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arrow Puzzle</string>
+    <string name="tab_campaign">Campaign</string>
+    <string name="tab_zen">Zen Mode</string>
+    <string name="tab_blitz">Blitz Rush</string>
+    <string name="tab_daily">Daily</string>
+    <string name="tab_custom">Seed Lab</string>
+</resources>
